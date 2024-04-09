@@ -53,7 +53,6 @@ The steps for this assignment are divided into the following subsections:
 
 3. Compile the contract by using compiler version 0.5.0.
 
-
 ![alt text](KaseiCoinCrowdsale_sol_code.png)
 
 ### Step 3: Create the KaseiCoin Deployer Contract
@@ -88,6 +87,7 @@ In the `KaseiCoinCrowdsaleDeployer` contract, you’ll add variables to store th
 
 5. Compile the contract by using compiler version 0.5.0.
 
+
 ![alt text](KaseiCoin_crowdsale_deployer_sol_code.png)
 
 ### Step 4: Deploy and Test the Crowdsale on a Local Blockchain
@@ -95,6 +95,7 @@ In the `KaseiCoinCrowdsaleDeployer` contract, you’ll add variables to store th
 In this subsection, you’ll deploy the crowdsale to a local blockchain. You’ll then perform a real-world, preproduction test of your crowdsale. To do so, complete the following steps:
 
 1. Deploy the crowdsale to a local blockchain by using Remix, MetaMask, and Ganache.
+
 
 ![alt text](successfully_deployed_crowdsaleDeployer_contract.png)
 
@@ -104,5 +105,5 @@ In this subsection, you’ll deploy the crowdsale to a local blockchain. You’l
 
 3. Review the total supply of minted tokens 
 
-![alt text](Total_supply_is_10.png)
 
+![alt text](Total_supply_is_10.png)
